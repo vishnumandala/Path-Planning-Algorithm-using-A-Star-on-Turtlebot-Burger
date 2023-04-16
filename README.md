@@ -64,6 +64,9 @@ Shortest Path:  [(20, 20, 30), (35.72076941345914, 29.070827362972288, 30.0), (4
 
 Runtime: 187.375009059906 seconds
 
+### *Output*
+![A* on Differential Drive Robot](https://github.com/vishnumandala/Path-Planning-Algorithm-using-A-Star-on-Turtlebot-Burger/blob/main/Part%201/part1_output.png)
+
 ### **Animation**
 
 https://drive.google.com/file/d/1d204RiwlYIIe02Jf-8912CeFpOY6TO14/view?usp=share_link
@@ -138,6 +141,9 @@ Runtime: 21.750512838363647 seconds
 
 Starting ROS simulation...
 Simulation complete. Reached Goal Node.
+
+### *Output*
+![A* on Turtlebot3 Burger](https://github.com/vishnumandala/Path-Planning-Algorithm-using-A-Star-on-Turtlebot-Burger/blob/main/Part%202/proj3p2part2/part2_output.png)
 
 ### **Animation**
 
