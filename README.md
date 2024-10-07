@@ -69,7 +69,7 @@ Runtime: 187.375009059906 seconds
 
 ### **Animation**
 
-https://drive.google.com/file/d/1d204RiwlYIIe02Jf-8912CeFpOY6TO14/view?usp=share_link
+![](https://github.com/vishnumandala/Path-Planning-Algorithm-using-A-Star-on-Turtlebot-Burger/blob/main/Part%201/animation.gif)
 
 ## Part 2: Gazebo Visualization
 
@@ -147,10 +147,10 @@ Simulation complete. Reached Goal Node.
 
 ### **Animation**
 
-https://drive.google.com/file/d/1fZ7YNa50fs31JxDoAsgtxc9kvh9STm9Q/view?usp=share_link
+![](https://github.com/vishnumandala/Path-Planning-Algorithm-using-A-Star-on-Turtlebot-Burger/blob/main/Part%202/proj3p2part2/animation.gif)
 
 ### **Gazebo Simulation**
 
-https://drive.google.com/file/d/1GjYFWi2oQGLZSQk5o0g2MLNK1YDFE3it/view?usp=share_link
+![](https://github.com/vishnumandala/Path-Planning-Algorithm-using-A-Star-on-Turtlebot-Burger/blob/main/Part%202/proj3p2part2/gazebo.gif)
 
 
